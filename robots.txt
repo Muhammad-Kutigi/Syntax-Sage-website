@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://syntax-sage-tech-hub.netlify.app/sitemap.xml
