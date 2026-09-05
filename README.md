@@ -21,11 +21,11 @@ https://syntax-sage-tech-hub.netlify.app/
 
 ### Projects
 
-![Syntax-Sage Mobile View](screenshots/projects.png)
-![Syntax-Sage Mobile View](screenshots/projects-a.png)
+![Syntax-Sage Projects](screenshots/projects.png)
+![Syntax-Sage Projects](screenshots/projects-a.png)
 
 ## Leadership
-![Syntax-Sage Mobile View](screenshots/leadership.png)
+![Syntax-Sage Leadership](screenshots/leadership.png)
 
 ## 📌 About the Project
 
