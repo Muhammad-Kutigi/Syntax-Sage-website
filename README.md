@@ -6,6 +6,27 @@ A modern technology services website designed to showcase digital solutions, web
 
 https://syntax-sage-tech-hub.netlify.app/
 
+## 📸 Screenshots
+
+### Homepage
+
+![Syntax-Sage Homepage](screenshots/homepage.png)
+![Syntax-Sage Homepage](screenshots/homepage-a.png)
+
+
+### Services
+
+![Syntax-Sage Services](screenshots/services.png)
+![Syntax-Sage Services](screenshots/services-a.png)
+
+### Projects
+
+![Syntax-Sage Mobile View](screenshots/projects.png)
+![Syntax-Sage Mobile View](screenshots/projects-a.png)
+
+## Leadership
+![Syntax-Sage Mobile View](screenshots/leadership.png)
+
 ## 📌 About the Project
 
 Syntax-Sage Tech Hub is a responsive technology-focused website created to present professional technology services and digital solutions through a clean and modern web interface.
